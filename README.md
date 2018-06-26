@@ -8,4 +8,4 @@ A descriptive analysis on the distribution of the use of light and heavy verbs i
 A webpage scrapping exercise, using UCSD's Linguistics Department course offering webpage as a data set to look into the distribution of course offerings over the past four years.
 
 ## Statistical Analysis on Inference in Old Age:
-An experiment based on a simulated dataset, focusing on experimental design and statistical methods . <br/> **(Final Project for LIGN 251: Statistical Methods in Linguistics)**
+An experiment based on a simulated dataset, focusing on experimental design and statistical methods; in addition to a section on how misleading results can be obtained. <br/> **(Final Project for LIGN 251: Statistical Methods in Linguistics)**
